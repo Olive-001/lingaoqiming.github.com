@@ -15,3 +15,5 @@ img_url: http://lingaoqiming.github.io//images
 collections:
   characters:
     output: true
+
+theme: jekyll-theme-cayman
